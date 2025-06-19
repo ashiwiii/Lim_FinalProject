@@ -470,6 +470,11 @@ input[type=button]:hover{
   #about h2{
     font-size: 70px;
   }
+  
+  #about p{
+    font-size: 24px;
+    margin: auto;
+  }
 
 
   #skills h2{
